@@ -5,5 +5,7 @@ This repository showcases my work on a security audit project for Botium Toys, a
 ## Documents
 - [Botium Toys Controls and Compliance Checklist (PDF)](Docs/Botium_Toys_Controls_and_Compliance_Checklist.pdf)
 - [Botium Toys Security Audit Recommendations (PDF)](Docs/Botium_Toys_Security_Audit_Recommendations.pdf)
-- Supporting visuals and templates (to be added soon).
-- 
+
+## Visuals
+- [Security Audit Process Flowchart](Visuals/Security_Audit_Process_Flowchart.drawio)  
+- This flowchart provides a visual representation of the steps involved in the security audit process.

@@ -163,7 +163,7 @@
           <mxGeometry x="577.5" y="930" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-113" value="&lt;b&gt;Step 4: Reporting&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="770" width="120" height="30" as="geometry" />
+          <mxGeometry x="630" y="780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-114" value="Draft&lt;div&gt;and&lt;/div&gt;&lt;div&gt;Share Report&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#909090;fontColor=#1A1A1A;fillColor=#F5AB50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" y="700" width="120" height="60" as="geometry" />
@@ -231,7 +231,7 @@
           <mxGeometry x="700" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-136" value="&lt;b&gt;Step 6: Closure&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="610" y="260" width="110" height="30" as="geometry" />
+          <mxGeometry x="630" y="260" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-137" value="End" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#909090;fontColor=#1A1A1A;fillColor=#F5AB50;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="700" width="120" height="80" as="geometry" />
@@ -251,6 +251,9 @@
               <mxPoint x="120" y="560" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="b7V_TIsz01OZeS8ecnPz-144" value="&lt;b&gt;Step 5: Remediation&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="660" width="140" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

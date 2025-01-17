@@ -76,7 +76,7 @@
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-38" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;fontSize=12;labelBackgroundColor=none;fontColor=#1A1A1A;rounded=0;" connectable="0" vertex="1" parent="b7V_TIsz01OZeS8ecnPz-37">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="50" y="88" as="offset" />
+            <mxPoint x="40" y="88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-57" value="&lt;font&gt;Identify Resources&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -224,7 +224,7 @@
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-134" value="No" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#909090;fontColor=#1A1A1A;fillColor=#F5AB50;rounded=0;" connectable="0" vertex="1" parent="b7V_TIsz01OZeS8ecnPz-133">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="-136" as="offset" />
+            <mxPoint x="30" y="-126" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-135" value="Document&amp;nbsp;&lt;div&gt;Lessons Learned&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#909090;fontColor=#1A1A1A;fillColor=#F5AB50;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">

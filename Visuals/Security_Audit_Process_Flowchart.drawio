@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.6">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1034" dy="522" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1034" dy="1691" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="b7V_TIsz01OZeS8ecnPz-83" value="&lt;font&gt;Conduct Stakeholder Alignment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="50" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="vEGD2U-kW4-YruRSRP0R-6" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="-1" width="742.5" height="1091" as="geometry" />
         </mxCell>
-        <mxCell id="vEGD2U-kW4-YruRSRP0R-5" value="" style="group" vertex="1" connectable="0" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="80" width="742.5" height="990" as="geometry" />
+        <mxCell id="vEGD2U-kW4-YruRSRP0R-5" value="" style="group" vertex="1" connectable="0" parent="vEGD2U-kW4-YruRSRP0R-6">
+          <mxGeometry y="101" width="742.5" height="990" as="geometry" />
         </mxCell>
         <mxCell id="b7V_TIsz01OZeS8ecnPz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#182E3E;fontColor=default;" parent="vEGD2U-kW4-YruRSRP0R-5" source="b7V_TIsz01OZeS8ecnPz-0" target="b7V_TIsz01OZeS8ecnPz-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -258,8 +258,11 @@
         <mxCell id="b7V_TIsz01OZeS8ecnPz-144" value="&lt;b&gt;Step 5: Remediation&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;rounded=1;" parent="vEGD2U-kW4-YruRSRP0R-5" vertex="1">
           <mxGeometry x="540" y="660" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="b7V_TIsz01OZeS8ecnPz-145" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;Security Audit Process&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vEGD2U-kW4-YruRSRP0R-5" vertex="1">
-          <mxGeometry x="257" y="2" width="234" height="37" as="geometry" />
+        <mxCell id="b7V_TIsz01OZeS8ecnPz-83" value="&lt;font&gt;Conduct Stakeholder Alignment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F5AB50;strokeColor=#909090;fontColor=#1A1A1A;" parent="vEGD2U-kW4-YruRSRP0R-5" vertex="1">
+          <mxGeometry x="-30" y="930" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="b7V_TIsz01OZeS8ecnPz-145" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Security Audit Process&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="vEGD2U-kW4-YruRSRP0R-6" vertex="1">
+          <mxGeometry x="222" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

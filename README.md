@@ -9,3 +9,5 @@ This repository showcases my work on a security audit project for Botium Toys, a
 ## Visuals
 - [Security Audit Process Flowchart](Visuals/Security_Audit_Process_Flowchart.drawio)  
 - This flowchart provides a visual representation of the steps involved in the security audit process.
+- ![Security Audit Process Flowchart](Visuals/Security_Audit_Process_Flowchart.jpg)
+

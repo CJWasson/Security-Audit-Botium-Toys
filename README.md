@@ -42,9 +42,5 @@ The repository is designed to guide users through the process of conducting a th
    git clone https://github.com/CJWasson/Security-Audit-Botium-Toys.git
 
 
-### Steps to Update:
-1. Replace the **README.md** file in your repository with the above content.
-2. Verify the links to the PDFs and ensure the "Documents" folder is correctly named and structured.
-3. Once updated, let me know, and we can review the new layout!
 
 

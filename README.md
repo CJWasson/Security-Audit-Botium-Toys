@@ -16,8 +16,8 @@ The repository is designed to guide users through the process of conducting a th
 ---
 
 ## Documents
-- [Botium Toys Controls and Compliance Checklist (PDF)](Documents/Botium_Toys_Controls_and_Compliance_Checklist.pdf): An assessment of existing controls and recommendations.
-- [Botium Toys Security Audit Recommendations (PDF)](Documents/Botium_Toys_Security_Audit_Recommendations.pdf): A summary of audit findings and improvement suggestions.
+- [Botium_Toys_Controls_and_Compliance_Checklist (PDF)](Documents/Botium_Toys_Controls_and_Compliance_Checklist.pdf): An assessment of existing controls and recommendations.
+- [Botium_Toys_Security_Audit_Recommendations (PDF)](Documents/Botium_Toys_Security_Audit_Recommendations.pdf): A summary of audit findings and improvement suggestions.
 
 ---
 
